@@ -1,5 +1,5 @@
 # live-chatroom
-
+create new account and send messages 
 ## Project setup
 ```
 npm install
